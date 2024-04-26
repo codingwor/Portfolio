@@ -50,7 +50,7 @@ p {
 .img {
   width: 47%;
   height: 400px;
-  background-image: url("image/portfolio1.jpg");
+  background-image: url("home.jpg");
   border-radius: 16px;
 }
 .main {
@@ -99,7 +99,7 @@ div.box:hover {
   width: 100%;
   height: 200px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(image/portfolio.png);
+    url(portfolio.png);
   background-size: 123%;
   background-position: 40%;
   border-radius: 8px;
@@ -108,7 +108,7 @@ div.box:hover {
   width: 100%;
   height: 200px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(image/portfolio2.png);
+    url(portfolio2.png);
   background-size: 100%;
   border-radius: 8px;
 }
@@ -116,7 +116,7 @@ div.box:hover {
   width: 100%;
   height: 200px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(image/portfolio3.jpg);
+    url(portfolio3.jpg);
   background-size: 130%;
   background-position: 50%;
   border-radius: 8px;
